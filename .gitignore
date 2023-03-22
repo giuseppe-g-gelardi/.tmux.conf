@@ -1,0 +1,7 @@
+
+# ignore ERRRRthan.. plz
+*
+
+# cept this..
+!.gitignore
+!.tmux.conf
